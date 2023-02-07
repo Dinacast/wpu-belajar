@@ -1,5 +1,5 @@
 WPU Belajar
 - Belajar html, CSS, dan Java Script
 - Konsisten untuk belajar di code sandbox
-- Membuat forum diskusi
 - Belajar lebih banyak bahasa bahasa pemrograman
+- Diskusi dengan banyak expert
