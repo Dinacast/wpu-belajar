@@ -7,5 +7,7 @@ RENCANA BELAJAR
 - Belajar HTML, CSS, dan Java Script
   * ES6
   * Framework Java Script
-- Vue
+  * Struktur Data Dasar
+- Interview
+- Python
 - React
