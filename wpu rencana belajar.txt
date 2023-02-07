@@ -8,3 +8,5 @@ RENCANA BELAJAR
   * ES6
   * Framework Java Script
   * Struktur Data Dasar
+- Interview
+- Python
