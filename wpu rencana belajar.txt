@@ -10,3 +10,4 @@ RENCANA BELAJAR
   * Struktur Data Dasar
 - Interview
 - Python
+- React
