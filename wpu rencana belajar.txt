@@ -4,3 +4,6 @@ RENCANA BELAJAR
 - Merasa menyenangkan belajar programer
 - Memotivasi diri sendiri agar lebih rajin
 - Menjadikan suasana belajar lebih menyenangkan
+- Belajar HTML, CSS, dan Java Script
+  * ES6
+  * Framework Java Script
