@@ -3,3 +3,4 @@ WPU Belajar
 - Konsisten untuk belajar di code sandbox
 - Belajar lebih banyak bahasa bahasa pemrograman
 - Diskusi dengan banyak expert
+- Belajar lebih keras
